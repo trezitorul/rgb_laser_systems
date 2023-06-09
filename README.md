@@ -8,7 +8,7 @@ To use this package, create a RGB_Laser object, this will establish communicatio
 Basic Usage: 
 
 ```
-laser=RGB_Laser("809392")
+laser=RGB_Laser("80983")
 laser.set_outputPower(5) #In units of mW
 laser.enable() #Starts the emission output, there is a 7 Sec safety delay before the laser starts
 power=laser.get_outputPower() #Returns the output power of the laser in mW.
