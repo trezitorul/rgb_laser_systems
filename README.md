@@ -2,7 +2,7 @@
 A python package to control RGB Laser Systems lasers
 
 To use this package, create a RGB_Laser object, this will establish communications with the laser. The laser can be connected either using the COM Port directly ("COM7", etc.) or it can connect using the serial number of the laser found in LTune: 
-![Ltune Software serial number location](Ltune.png)
+![Ltune Software serial number location](./Ltune.png)
 
 Basic Usage: 
 
